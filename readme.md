@@ -11,3 +11,5 @@ Litt info om meg
 - Laget en style.css fil
 - Laget en script.js fil
 - Laget en dev branch
+
+Hei, endret
