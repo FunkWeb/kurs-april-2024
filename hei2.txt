@@ -2,3 +2,5 @@ Dette er en helt ny fil,
 den skal komme inn til master via en
 Pull Request
 ALL CAPS
+
+
